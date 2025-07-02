@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="About Project", page_icon="🚚")
 st.markdown("""
-# 🚚 Delivery Time Prediction
+# 🚚 [Delivery Time Prediction](https://delivery-time.streamlit.app/Delivery_Time_Predictor)
 
 ## 🔍 Project Overview
 
