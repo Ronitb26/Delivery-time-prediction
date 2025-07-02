@@ -13,15 +13,14 @@ The main objective of this project is to **predict delivery time** using **histo
 - Performed:
   - **Data cleaning**
   - **Missing value imputation**
-  - **Outlier treatment**
-  - **Feature extraction** (e.g., time of day, delivery slot, delay flags)
+  - **Feature extraction** (e.g., time of day, delivery slot)
 
 ### 📊 Exploratory Data Analysis (EDA)
 - Identified key drivers of delivery delays using:
   - Distribution plots
   - Correlation heatmaps
   - Delay trend analysis
-- Visualized delivery time behavior across regions, ratings, and traffic patterns.
+- Visualized delivery time behavior across Day Time, Weather Conditions, and traffic patterns.
 
 ### 📌 Feature Selection
 - Applied multiple feature importance techniques:
